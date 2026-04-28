@@ -1,5 +1,5 @@
 # Railway Reservation System
-
+print("Welcome to Railway Reservation System")
 seats = 50
 bookings = {}
 
